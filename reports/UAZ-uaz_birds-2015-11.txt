@@ -1,0 +1,132 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 1493
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+	Country: United States ; Times: 21
+	Country: Germany ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-16 ; Times: 1
+	Date: 2015-11-24 ; Times: 3
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-21 ; Times: 1
+	Date: 2015-11-19 ; Times: 2
+	Date: 2015-11-18 ; Times: 8
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-28 ; Times: 6
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-26 ; Times: 3
+	Date: 2015-11-12 ; Times: 1
+	Date: 2015-11-15 ; Times: 2
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pavo muticus" ; Times: 2
+	Query: "institutioncode:uaz Psittacidae" ; Times: 5
+	Query: "type:specimen order:Psittaciformes (militaris)" ; Times: 1
+	Query: "long-billed curlew" ; Times: 1
+	Query: "elf" ; Times: 9
+	Query: "petrochelidon fulva" ; Times: 2
+	Query: "carolina parakeet" ; Times: 2
+	Query: "crax globulosa" ; Times: 1
+	Query: "long-billed curlew year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "sula leucogaster" ; Times: 1
+	Query: "genus:Tadorna preparations:skeleton" ; Times: 1
+	Query: "gbifdatasetid:96c383a8-f762-11e1-a439-00145eb45e9a" ; Times: 3
+	Query: "tyrannus forficatus louisiana" ; Times: 1
+	Query: "Salpinctes obsoletus locality:Guadalupe" ; Times: 1
+	Query: "marsh arizona" ; Times: 3
+	Query: "duck wings" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 751 download events in this period)
+Total number of records downloaded: 1004
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 16
+	Country: Sweden ; Times: 6
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 3
+	Country: Japan ; Times: 9
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-12 ; Times: 12
+	Date: 2015-11-02 ; Times: 3
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-23 ; Times: 3
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-09 ; Times: 4
+	Date: 2015-11-04 ; Times: 3
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-26 ; Times: 3
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-20 ; Times: 2
+	Date: 2015-11-21 ; Times: 2
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "phytotoma rara" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "cuculus solitarius" ; Times: 1
+	Query: "family:Anhimidae preparations:skeleton" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "class:Aves country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Salpinctes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT scintilla NOT ardens NOT flammula NOT platycercus NOT rufus NOT calliope NOT torridus NOT simoni)" ; Times: 1
+	Query: "Hypothymis" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT rufus AND NOT platycercus)" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "genus:Oxyura preparations:skeleton" ; Times: 1
+	Query: "ploceus" ; Times: 2
+	Query: "halcyon senegalensis" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Branta preparations:skeleton" ; Times: 1
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "genus:Tadorna preparations:skeleton" ; Times: 1
+	Query: "puffinus" ; Times: 1
+	Query: "genus:Melanitta preparations:skeleton" ; Times: 1
+	Query: "genus:Bucephala preparations:skeleton" ; Times: 1
+	Query: "genus:Somateria preparations:skeleton" ; Times: 1
+	Query: "Sterna fuscata" ; Times: 1
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "genus:Anas preparations:skeleton" ; Times: 1
+	Query: "Salpinctes obsoletus locality:Guadalupe" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "NAYARIT" ; Times: 1
+	Query: "phytotoma rutila" ; Times: 1
+	Query: "ispidina picta" ; Times: 1
+	Query: "genus:Aythya preparations:skeleton" ; Times: 1
+	Query: "genus:Clangula preparations:skeleton" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "(AM Ornithology)" ; Times: 1
+	Query: "halcyon leucocephala" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+
+
+End of report.
