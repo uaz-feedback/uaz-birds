@@ -1,0 +1,80 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 633
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 7
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-08 ; Times: 2
+	Date: 2016-03-14 ; Times: 2
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Carpodacus mexicanus type:specimen (Santa Catalina Island ) institutioncode:UAZ" ; Times: 1
+	Query: "dendragapus obscurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "type:specimen (Santa Cruz Island ) institutioncode:UAZ" ; Times: 1
+	Query: "type:specimen (Santa Barbara Island ) institutioncode:UAZ" ; Times: 1
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "genus:Tachuris class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen ( A.B. Howell) institutioncode:UAZ" ; Times: 1
+	Query: "Eremophila alpestris type:specimen (Santa Catalina Island ) institutioncode:UAZ" ; Times: 2
+	Query: "type:specimen ( Santa Barbara Island) institutioncode:UAZ" ; Times: 1
+	Query: "ornithology type:specimen institutioncode:UAZ" ; Times: 2
+	Query: "perdix minnesota" ; Times: 1
+	Query: "elf" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 230 download events in this period)
+Total number of records downloaded: 361
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-10 ; Times: 4
+	Date: 2016-03-08 ; Times: 2
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-02 ; Times: 3
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "blue- winged teal" ; Times: 1
+	Query: "dendragapus obscurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1938 year &lt;= 1940" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "type:specimen (Santa Catalina Island ) institutioncode:UAZ" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1945" ; Times: 2
+	Query: "protonotaria citrea" ; Times: 1
+
+
+End of report.
