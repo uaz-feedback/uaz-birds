@@ -1,0 +1,128 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 1615
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 20
+	Country: Brazil ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 25
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 4
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 7
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-25 ; Times: 5
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 4
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-14 ; Times: 5
+	Date: 2016-04-15 ; Times: 3
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-10 ; Times: 4
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 15
+	Date: 2016-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pteroglossus aracari type:specimen" ; Times: 2
+	Query: "(reddington)" ; Times: 1
+	Query: "Ammodramus savannarum dakota" ; Times: 1
+	Query: "Howell AND Santa Catalina Island" ; Times: 1
+	Query: "dendrocygna county:&#34;pima&#34; year &gt;= 1965 year &lt;= 1965" ; Times: 1
+	Query: "&#34;A. B.Howell&#34; AND Island" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "UAZ Mammalogy" ; Times: 1
+	Query: "specificepithet:calendula genus:regulus year &gt;= 1971 year &lt;= 1971" ; Times: 1
+	Query: "elf" ; Times: 20
+	Query: "Rhynchopsitta United" ; Times: 1
+	Query: "Arizona elegans Sinaloa" ; Times: 1
+	Query: "UAM 1195" ; Times: 1
+	Query: "&#34;A. B.Howell&#34; AND ISland" ; Times: 1
+	Query: "dendrocygna county:&#34;pima&#34;" ; Times: 1
+	Query: "conopophaga lineata" ; Times: 1
+	Query: "recordedby:Dickerman year &gt;= 1957 year &lt;= 1957" ; Times: 1
+	Query: "dendrocygna stateprovince:&#34;jalisco&#34; year &gt;= 1965" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "UAZ 002535" ; Times: 3
+	Query: "UAZ 002750" ; Times: 2
+	Query: "black-headed siskin" ; Times: 1
+	Query: "blackbird type:specimen year &gt;= 2015 year &lt;= 2016" ; Times: 1
+	Query: "Contopus virens Ontario" ; Times: 10
+	Query: "Phoenicopterus ruber type:specimen (United States OR Cuba OR Bahamas OR Mexico) AND (NOT roseus)" ; Times: 1
+	Query: "Larus AND Santa Catalina Island" ; Times: 1
+	Query: "Dendroica cerulea Ontario" ; Times: 10
+	Query: "specificepithet:tigrina genus:Dendroica month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "UAZ Mammal" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1312 download events in this period)
+Total number of records downloaded: 446
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-11 ; Times: 4
+	Date: 2016-04-27 ; Times: 3
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "Rhynchopsitta United" ; Times: 1
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "stolzmanni" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "type:specimen class:Aves county:&#34;seneca&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "type:specimen class:Aves county:&#34;Cayuga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "toucan" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Passeridae Arizona" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
