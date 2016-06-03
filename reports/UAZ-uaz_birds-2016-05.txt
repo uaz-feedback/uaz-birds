@@ -1,0 +1,80 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 555
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Russia ; Times: 6
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 8
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-07 ; Times: 5
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Eremophila alpestris AND Catalina Island" ; Times: 2
+	Query: "aves Polioptila nigriceps United States Arizona" ; Times: 1
+	Query: "aves Polioptila nigriceps 015019" ; Times: 1
+	Query: "aves Polioptila nigriceps 015018" ; Times: 1
+	Query: "aves Polioptila nigriceps 014982" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "Parabuteo unicinctus Mexico" ; Times: 1
+	Query: "Aythya AND California AND Island" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "warbler colorado usa" ; Times: 1
+	Query: "Synthliboramphus AND Santa Cruz" ; Times: 1
+	Query: "aves Polioptila nigriceps 010483" ; Times: 1
+	Query: "aves Polioptila nigriceps 009630" ; Times: 1
+	Query: "UAZ AND A.B. Howell" ; Times: 1
+	Query: "Eremophila AND Catalina" ; Times: 1
+	Query: "aves Polioptila nigriceps 015039" ; Times: 1
+	Query: "Synthliboramphus AND Santa Cruz Island" ; Times: 1
+	Query: "aves Polioptila nigriceps 014981" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 327 download events in this period)
+Total number of records downloaded: 249
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Canada ; Times: 2
+	Country: China ; Times: 3
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "calypte anna" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
