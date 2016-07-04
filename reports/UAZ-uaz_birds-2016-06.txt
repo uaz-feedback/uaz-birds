@@ -1,0 +1,124 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 816
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 4
+	Country: Portugal ; Times: 16
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 31
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 3
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-22 ; Times: 5
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-20 ; Times: 5
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-14 ; Times: 15
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-03 ; Times: 2
+	Date: 2016-06-11 ; Times: 2
+	Date: 2016-06-16 ; Times: 2
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-02 ; Times: 3
+	Date: 2016-06-07 ; Times: 4
+	Date: 2016-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Oceanodroma homochroa Santa Cruz 1970" ; Times: 2
+	Query: "Melanotis hypoleucus" ; Times: 1
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "Estrilda astrild 1" ; Times: 4
+	Query: "Catalina Island AND 1900" ; Times: 1
+	Query: "querula purpurata" ; Times: 3
+	Query: "Oxyura AND Santa Cruz" ; Times: 1
+	Query: "type:specimen specificepithet:miniatus genus:myioborus country:&#34;united states&#34;" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "crax globulosa" ; Times: 1
+	Query: "crax rubra" ; Times: 1
+	Query: "type:specimen specificepithet:miniatus genus:myioborus country:&#34;United States&#34;" ; Times: 1
+	Query: "Leiothrix lutea 1" ; Times: 4
+	Query: "specificepithet:miniatus genus:myioborus country:&#34;united states&#34;" ; Times: 1
+	Query: "Phalacrocorax pelagicus AND Santa Cruz" ; Times: 1
+	Query: "ortalis vetula type:specimen year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "dendroica magnolia country:&#34;canada&#34; AND (NOT Illinois) month &gt;= 5 month &lt;= 6 institutioncode:UAZ" ; Times: 1
+	Query: "Tringa AND Santa Cruz Island" ; Times: 1
+	Query: "Psaltriparus minimus AND Santa Catalina" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "Estrilda troglodytes 1" ; Times: 3
+	Query: "Smith AND Catalina" ; Times: 2
+	Query: "Melanoptila glabrirostris" ; Times: 1
+	Query: "oxpecker" ; Times: 6
+	Query: "1900 AND Catalina ISland" ; Times: 1
+	Query: "Phalacrocorax pelagicus r AND Santa Cruz" ; Times: 1
+	Query: "1900 AND Catalina ISland NOT Velero" ; Times: 1
+	Query: "dendroica magnolia type:specimen country:&#34;canada&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz" ; Times: 2
+	Query: "Cooper AND Catalina" ; Times: 1
+	Query: "Phalacrocorax pelagicus AND Santa Cruz Island" ; Times: 1
+	Query: "Lonchura punctulata 1" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1052 download events in this period)
+Total number of records downloaded: 203
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "type:specimen specificepithet:miniatus genus:myioborus country:&#34;united states&#34;" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "Tangara seledon" ; Times: 1
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "magnolia warbler" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+
+
+End of report.
