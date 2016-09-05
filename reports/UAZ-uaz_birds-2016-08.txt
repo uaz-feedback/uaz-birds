@@ -1,0 +1,109 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 426
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 12
+	Country: Denmark ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-19 ; Times: 3
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 3
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-31 ; Times: 4
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "meleagris gallopavo country:&#34;mexico&#34;" ; Times: 1
+	Query: "Catharus fuscescens Arizona" ; Times: 1
+	Query: "granatellus venustus" ; Times: 1
+	Query: "dendroica magnolia country:&#34;Canada&#34; month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "ara militaris country:&#34;mexico&#34;" ; Times: 2
+	Query: "elf" ; Times: 5
+	Query: "dendragapus arizona" ; Times: 1
+	Query: "family:Tyrannidae class:aves county:&#34;greenwood&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Chlorospingus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "bar-headed goose" ; Times: 3
+	Query: "type:specimen specificepithet:furcata genus:Thalurania class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Otus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "gypohierax" ; Times: 1
+	Query: "Coracias spatulata" ; Times: 2
+	Query: "Myrmoborus lugubris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 924 download events in this period)
+Total number of records downloaded: 833
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 3
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-30 ; Times: 5
+	Date: 2016-08-31 ; Times: 5
+	Date: 2016-08-23 ; Times: 3
+	Date: 2016-08-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Mecca" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "aimophila ruficauda" ; Times: 1
+	Query: "chlorospingus" ; Times: 2
+	Query: "Cypseloides" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Granite Mountain" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "Quail Spring" ; Times: 1
+	Query: "Empidonax minimus year &gt;= 1980" ; Times: 1
+	Query: "White-crowned Sparrow" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "certhidea" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Picoides tridactylus year &gt;= 1980" ; Times: 1
+	Query: "Picoides arcticus year &gt;= 1980" ; Times: 1
+	Query: "genus:Otus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+	Query: "falco rufigularis" ; Times: 1
+
+
+End of report.
