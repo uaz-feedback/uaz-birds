@@ -1,0 +1,152 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 85
+Number of records retrieved in searches: 301
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Argentina ; Times: 1
+	Country: Portugal ; Times: 57
+	Country: Colombia ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-10 ; Times: 18
+	Date: 2016-09-08 ; Times: 34
+	Date: 2016-09-09 ; Times: 17
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-23 ; Times: 1
+	Date: 2016-09-06 ; Times: 2
+	Date: 2016-09-07 ; Times: 11
+	Date: 2016-09-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Heliomaster constantii 1" ; Times: 1
+	Query: "Eugenes fulgens 1" ; Times: 1
+	Query: "Furnarius leucopus 1" ; Times: 1
+	Query: "Callipepla douglasii 1" ; Times: 1
+	Query: "Aratinga holochlora 1" ; Times: 1
+	Query: "Haematopus bachmani 1" ; Times: 1
+	Query: "Estrilda astrild 1" ; Times: 2
+	Query: "Columba livia 1" ; Times: 1
+	Query: "Actophilornis africanus 1" ; Times: 1
+	Query: "Brotogeris versicolurus 1" ; Times: 1
+	Query: "Chrysococcyx CM" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:schwartz" ; Times: 1
+	Query: "Dendrocygna autumnalis 1" ; Times: 2
+	Query: "Crax rubra 1" ; Times: 1
+	Query: "Platalea ajaja 1" ; Times: 1
+	Query: "Cygnus columbianus 1" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 2
+	Query: "Leptoptilos crumeniferus 1" ; Times: 1
+	Query: "Selasphorus platycercus 1" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Gracula religiosa 1" ; Times: 1
+	Query: "Amazilia rutila 1" ; Times: 1
+	Query: "Parabuteo unicinctus 1" ; Times: 1
+	Query: "Anser indicus 1" ; Times: 1
+	Query: "Amazilia tzacatl 1" ; Times: 2
+	Query: "Amazilia amazilia 1" ; Times: 1
+	Query: "Alectoris chukar 1" ; Times: 2
+	Query: "Selasphorus rufus 1" ; Times: 1
+	Query: "bar-headed goose" ; Times: 1
+	Query: "Lophodytes cucullatus 1" ; Times: 2
+	Query: "Leiothrix lutea 1" ; Times: 2
+	Query: "Doricha enicura" ; Times: 1
+	Query: "Cyrtonyx montezumae 1" ; Times: 1
+	Query: "Archilochus colubris 1" ; Times: 1
+	Query: "Amazilia beryllina 1" ; Times: 1
+	Query: "Hylocharis leucotis 1" ; Times: 1
+	Query: "Coeligena phalerata 1" ; Times: 1
+	Query: "Haliaeetus leucocephalus 1" ; Times: 1
+	Query: "Bonasa umbellus 1" ; Times: 1
+	Query: "Falco sparverius 1" ; Times: 1
+	Query: "Lonchura punctulata 1" ; Times: 2
+	Query: "Estrilda troglodytes 1" ; Times: 1
+	Query: "Agapornis roseicollis 1" ; Times: 2
+	Query: "Amazona farinosa 1" ; Times: 2
+	Query: "Lampornis amethystinus 1" ; Times: 1
+	Query: "Anas americana 1" ; Times: 3
+	Query: "Ortalis vetula 1" ; Times: 1
+	Query: "Todiramphus chloris 1" ; Times: 1
+	Query: "Anser albifrons 1" ; Times: 2
+	Query: "Branta bernicla 1" ; Times: 1
+	Query: "Chrysolophus pictus 1" ; Times: 2
+	Query: "Aythya valisineria 1" ; Times: 1
+	Query: "Coeligena coeligena 1" ; Times: 1
+	Query: "Coracias spatulata" ; Times: 1
+	Query: "Forpus cyanopygius 1" ; Times: 1
+	Query: "Amazona albifrons 1" ; Times: 3
+	Query: "Pavo cristatus 1" ; Times: 1
+	Query: "Melopsittacus undulatus 1" ; Times: 2
+	Query: "cistothorus platensis (wing)" ; Times: 1
+	Query: "Anas rubripes 1" ; Times: 1
+	Query: "Penelopina nigra 1" ; Times: 1
+	Query: "Thalurania furcata 1" ; Times: 1
+	Query: "Anthracothorax prevostii 1" ; Times: 2
+	Query: "Taeniopygia guttata 1" ; Times: 3
+	Query: "Acryllium vulturinum 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 811 download events in this period)
+Total number of records downloaded: 376
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 26
+	Country: Colombia ; Times: 2
+	Country: Thailand ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 3
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-08 ; Times: 6
+	Date: 2016-09-05 ; Times: 5
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-07 ; Times: 3
+	Date: 2016-09-01 ; Times: 4
+	Date: 2016-09-02 ; Times: 10
+	Date: 2016-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "roadrunner" ; Times: 1
+	Query: "falco peregrinus continent:america" ; Times: 1
+	Query: "myioborus miniatus type:specimen" ; Times: 2
+	Query: "thailand" ; Times: 2
+	Query: "Sula leucogaster type:specimen country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "pitta sordida" ; Times: 1
+	Query: "Dendroica pensylvanica year &gt;= 1980" ; Times: 1
+	Query: "Tilmatura dupontii" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Catharus ustulatus year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Sitta canadensis year &gt;= 1980" ; Times: 1
+	Query: "geococcyx californianus" ; Times: 1
+	Query: "Vireo olivaceus year &gt;= 1980" ; Times: 1
+	Query: "progne chalybea continent:america" ; Times: 1
+	Query: "Coracias spatulata" ; Times: 1
+	Query: "tricolored blackbird" ; Times: 1
+	Query: "Empidonax minimus year &gt;= 1980" ; Times: 1
+	Query: "genus:Setophaga (castanea OR coronata OR fusca OR palmarum OR ruticilla OR striata OR tigrina OR virens) year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "aves and cameroon type:specimen" ; Times: 1
+	Query: "Troglodytes troglodytes year &gt;= 1980" ; Times: 1
+	Query: "genus:Dendroica (castanea OR coronata OR fusca OR palmarum OR ruticilla OR striata OR tigrina OR virens) year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Vermivora celata year &gt;= 1980" ; Times: 1
+	Query: "Vireo philadelphicus year &gt;= 1980" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "Certhia americana year &gt;= 1980" ; Times: 1
+	Query: "cistothorus platensis type:specimen" ; Times: 1
+
+
+End of report.
