@@ -1,0 +1,271 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 179
+Number of records retrieved in searches: 807
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Mexico ; Times: 145
+	Country: India ; Times: 1
+	Country: Russia ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-24 ; Times: 16
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-26 ; Times: 4
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-16 ; Times: 109
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-15 ; Times: 37
+	Date: 2018-01-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyanocompsa parellina" ; Times: 1
+	Query: "Melanotis hypoleucus" ; Times: 1
+	Query: "Cotinga amabilis" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Pachyramphus major" ; Times: 1
+	Query: "Melanoptila glabrirostris" ; Times: 1
+	Query: "Manacus candei" ; Times: 1
+	Query: "Ramphocelus sanguinolentus" ; Times: 1
+	Query: "genus:dendrocygna class:Aves recordedby:ohmart" ; Times: 1
+	Query: "Euphonia affinis" ; Times: 1
+	Query: "Basileuterus belli" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Ohio&#34; (song sparrow) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Catharus aurantiirostris" ; Times: 1
+	Query: "Morococcyx  erythropygus" ; Times: 1
+	Query: "chauna torquata vntype:specimen" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "Celeus castaneus" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Vireo pallens" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "specificepithet:strepera genus:anas class:Aves recordedby:brown" ; Times: 1
+	Query: "Catharus dryas" ; Times: 1
+	Query: "Campylopterus  curvipennis" ; Times: 1
+	Query: "Aix galericulata sex:female hassex:1" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Arremon aurantiirostris" ; Times: 1
+	Query: "Campylopterus hemileucurus" ; Times: 1
+	Query: "Melanerpes pucherani" ; Times: 1
+	Query: "Eudocimus  albus" ; Times: 1
+	Query: "Piranga roseogularis" ; Times: 1
+	Query: "Ramphocaenus melanurus" ; Times: 1
+	Query: "specificepithet:autumnalis genus:Dendrocygna year &gt;= 1965 year &lt;= 1965 month &gt;= 4 month &lt;= 4 startdayofyear &lt;= 1965" ; Times: 1
+	Query: "Leptopogon amaurocephalus" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "Picoides borealis" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "Mitrephanes phaeocercus" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 1
+	Query: "Phaethornis striigularis" ; Times: 1
+	Query: "Caryothraustes poliogaster" ; Times: 1
+	Query: "Attila spadiceus" ; Times: 1
+	Query: "Icterus mesomelas" ; Times: 1
+	Query: "Claravis pretiosa" ; Times: 1
+	Query: "Contopus cinereus" ; Times: 1
+	Query: "Campephilus guatemalensis" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla class:Aves county:&#34;pima&#34;" ; Times: 4
+	Query: "Habia fuscicauda" ; Times: 1
+	Query: "Campylorhynchus zonatus" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Formicarius analis" ; Times: 1
+	Query: "Lepidocolaptes affinis" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "Leptotila rufaxilla" ; Times: 1
+	Query: "Lepidocolaptes souleyetii" ; Times: 1
+	Query: "Cyanocompsa cyanoides" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "specificepithet:valisineria genus:aythya class:Aves county:&#34;yuma&#34;" ; Times: 1
+	Query: "Trogon citreolus" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "neodrepanis" ; Times: 1
+	Query: "Crypturellus boucardi" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "Peucedramus taeniatus" ; Times: 1
+	Query: "Geothlypis poliocephala" ; Times: 1
+	Query: "Synallaxis erythrothorax" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Sporophila americana" ; Times: 1
+	Query: "Aix galericulata sex:Female hassex:1" ; Times: 1
+	Query: "Eugenes fulgens" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Uropsila leucogastra" ; Times: 1
+	Query: "Empidonax affinis" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 1
+	Query: "Icterus prosthemelas" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "Tityra inquisitor" ; Times: 1
+	Query: "Perdix minnesota" ; Times: 1
+	Query: "Arizona vulture mine" ; Times: 1
+	Query: "Tangara larvata" ; Times: 1
+	Query: "Icterus gularis" ; Times: 1
+	Query: "Amazilia candida" ; Times: 1
+	Query: "Myadestes unicolor" ; Times: 1
+	Query: "Myiobius sulphureipygius" ; Times: 1
+	Query: "specificepithet:affinis genus:aythya class:Aves county:&#34;tompkins&#34;" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Euphonia hirundinacea" ; Times: 1
+	Query: "Pteroglossus torquatus" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Tigrisoma mexicanum" ; Times: 1
+	Query: "Granatellus sallaei" ; Times: 1
+	Query: "Thraupis abbas" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "Columbina minuta" ; Times: 1
+	Query: "Turdus assimilis" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Crex Crex" ; Times: 1
+	Query: "Terenotriccus erythrurus" ; Times: 1
+	Query: "oak titmouse" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Lophodytes class:Aves county:&#34;oswego&#34;" ; Times: 1
+	Query: "Jacana spinosa" ; Times: 1
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "Threnetes ruckeri" ; Times: 1
+	Query: "specificepithet:squamata genus:Callipepla class:Aves county:&#34;cochise&#34;" ; Times: 1
+	Query: "Amazilia beryllina" ; Times: 1
+	Query: "Psarocolius montezuma" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "Camptostoma imberbe" ; Times: 1
+	Query: "Crypturellus cinnamomeus" ; Times: 1
+	Query: "Limnothlypis swainsonii" ; Times: 1
+	Query: "Ciccaba virgata" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Empidonax albigularis" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Oncostoma cinereigulare" ; Times: 1
+	Query: "caprimulgus cayennensis" ; Times: 1
+	Query: "Amaurospiza concolor" ; Times: 1
+	Query: "Myiarchus nuttingi" ; Times: 1
+	Query: "specificepithet:autumnalis genus:dendrocygna class:Aves year &gt;= 1965 year &lt;= 1965" ; Times: 1
+	Query: "Molothrus oryzivorus" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "Lampornis amethystinus" ; Times: 1
+	Query: "Laterallus ruber" ; Times: 1
+	Query: "Megarynchus pitangua" ; Times: 1
+	Query: "Tympanuchus cupido minnesota" ; Times: 1
+	Query: "Ortalis vetula" ; Times: 1
+	Query: "Vireo hypochryseus" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "Icterus chrysater" ; Times: 1
+	Query: "Tyrannus forficatus" ; Times: 1
+	Query: "Pheucticus chrysopeplus" ; Times: 1
+	Query: "Catharus guttatus Louisiana" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "specificepithet:rufescens genus:Egretta stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "specificepithet:squamata genus:Callipepla class:Aves county:&#34;pima&#34;" ; Times: 1
+	Query: "Cardellina rubrifrons" ; Times: 1
+	Query: "Dendrocincla anabatina" ; Times: 1
+	Query: "specificepithet:strepera genus:anas class:Aves county:&#34;pima&#34;" ; Times: 2
+	Query: "Phaethornis longirostris" ; Times: 1
+	Query: "Trogon mexicanus" ; Times: 1
+	Query: "Empidonax flavescens" ; Times: 1
+	Query: "Myiodynastes luteiventris" ; Times: 1
+	Query: "Hylomanes momotula" ; Times: 1
+	Query: "Saltator atriceps" ; Times: 1
+	Query: "Cyanocorax yucatanicus" ; Times: 1
+	Query: "genus:dendrocygna class:Aves year &gt;= 1965 year &lt;= 1965" ; Times: 1
+	Query: "Colinus nigrogularis" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Chlorophanes spiza" ; Times: 1
+	Query: "Cyanolyca cucullata" ; Times: 1
+	Query: "Dendrocincla homochroa" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Penelopina nigra" ; Times: 1
+	Query: "Amblycercus holosericeus" ; Times: 1
+	Query: "Trogon collaris" ; Times: 1
+	Query: "Hermit Thrush Louisiana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1398 download events in this period)
+Total number of records downloaded: 402
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Venezuela ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 3
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-23 ; Times: 1
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-25 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves preparations:Alcoholic basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "northern mockingbird vntype:specimen" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco stateprovince:&#34;Baja California&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "class:aves recordedby:*weber*" ; Times: 1
+	Query: "coereba flaveola" ; Times: 1
+	Query: "bananaquit" ; Times: 1
+	Query: "pinyon jay" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Platysteiridae" ; Times: 1
+	Query: "Cincloramphus cruralis" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+	Query: "pachyramphus aglaiae" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Malurus cyaneus hassex:1" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "Megalurus" ; Times: 2
+	Query: "Acrocephalus" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Empidonax hammondii" ; Times: 1
+	Query: "Dryocopus pileatus hassex:1" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+
+
+End of report.
