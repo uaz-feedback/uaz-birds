@@ -1,0 +1,126 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 300
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 15
+	Country: China ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-20 ; Times: 4
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-25 ; Times: 7
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:fischeri genus:Agapornis" ; Times: 3
+	Query: "specificepithet:virens genus:Dendroica class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Calcarius class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "guttatus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "specificepithet:cerulea genus:Dendroica class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:Lanius class:Aves recordedby:Hatch" ; Times: 1
+	Query: "vntype:specimen specificepithet:cucullata genus:Cyanolyca" ; Times: 1
+	Query: "genus:Lanius class:Aves recordedby:Hatch" ; Times: 1
+	Query: "Gadwall Wing" ; Times: 3
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:canagica genus:Chen" ; Times: 2
+	Query: "Guttatus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Aegolius year &gt;= 1976 year &lt;= 1976" ; Times: 1
+	Query: "county:&#34;Saint James&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "piranga bidentata stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pelecanus preparations:skeleton" ; Times: 3
+	Query: "red tail hawk" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1359 download events in this period)
+Total number of records downloaded: 356
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 19
+	Country: Chile ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-13 ; Times: 4
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-05 ; Times: 8
+	Date: 2018-04-17 ; Times: 3
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-19 ; Times: 3
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-25 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Santa Barbara&#34; (&#34;San Miguel&#34; OR &#34;Santa Rosa&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Barbara&#34;)" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "vntype:specimen class:Aves locality:salton sea" ; Times: 1
+	Query: "vntype:specimen specificepithet:alexandri genus:Archilochus country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Yellow-bellied Flycatcher" ; Times: 1
+	Query: "vntype:specimen specificepithet:heloisa genus:atthis country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 2
+	Query: "vntype:specimen specificepithet:yucatanensis genus:Amazilia country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "Northern rough winged swallow" ; Times: 4
+	Query: "caracara" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "thlypopsis sordida" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Geositta" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 5
+	Query: "specificepithet:acutipennis genus:Chordeiles" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 2
+	Query: "genus:Cyanolyca" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+
+
+End of report.
