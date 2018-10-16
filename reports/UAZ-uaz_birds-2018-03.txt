@@ -1,0 +1,141 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 461
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 82
+	Country: Canada ; Times: 2
+	Country: China ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 6
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-16 ; Times: 4
+	Date: 2018-03-09 ; Times: 4
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-03 ; Times: 3
+	Date: 2018-03-05 ; Times: 2
+	Date: 2018-03-28 ; Times: 5
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-26 ; Times: 24
+	Date: 2018-03-27 ; Times: 19
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-23 ; Times: 4
+	Date: 2018-03-20 ; Times: 1
+	Date: 2018-03-21 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Aratinga erythrogenys" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 5
+	Query: "genus:Neodrepanis specificepithet:coruscans" ; Times: 6
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 6
+	Query: "specificepithet:graciae genus:dendroica stateprovince:&#34;chiapas&#34;" ; Times: 1
+	Query: "genus:Psittacus specificepithet:erithacus" ; Times: 5
+	Query: "Philippine Trogon" ; Times: 1
+	Query: "genus:Fregata specificepithet:magnificens" ; Times: 2
+	Query: "genus:Merops specificepithet:viridis" ; Times: 2
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "genus:Falcipennis specificepithet:canadensis" ; Times: 2
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "genus:Taeniopygia specificepithet:guttata" ; Times: 2
+	Query: "genus:Dicrurus specificepithet:paradiseus" ; Times: 2
+	Query: "013758" ; Times: 1
+	Query: "genus:Celeus specificepithet:flavus" ; Times: 6
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 2
+	Query: "class:Aves recordedby:McConnell" ; Times: 1
+	Query: "anisognathus melanogenys" ; Times: 2
+	Query: "genus:Merops specificepithet:pusillus" ; Times: 2
+	Query: "genus:Eumomota specificepithet:superciliosa" ; Times: 2
+	Query: "locality:Mexico recordedby:White" ; Times: 1
+	Query: "genus:Ciconia specificepithet:ciconia" ; Times: 5
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 2
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 2
+	Query: "genus:Opisthocomus specificepithet:hoazin" ; Times: 5
+	Query: "genus:Aythya specificepithet:fuligula" ; Times: 2
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 2
+	Query: "specificepithet:personatus genus:Agapornis" ; Times: 3
+	Query: "genus:Coturnix specificepithet:coturnix" ; Times: 2
+	Query: "vulture wing" ; Times: 2
+	Query: "genus:Podiceps specificepithet:cristatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1284 download events in this period)
+Total number of records downloaded: 320
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-17 ; Times: 2
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-06 ; Times: 3
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-27 ; Times: 14
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "specificepithet:graciae genus:dendroica stateprovince:&#34;chiapas&#34;" ; Times: 1
+	Query: "conuropsis" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "Pipra mentalis" ; Times: 1
+	Query: "Egretta rufescens" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "Eumomota superciliosa" ; Times: 1
+	Query: "locality:San Jose stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "hylophilus flavipes" ; Times: 1
+	Query: "Terenotriccus erythrurus" ; Times: 2
+	Query: "Crax rubra" ; Times: 1
+	Query: "Campylopterus curvipennis" ; Times: 1
+	Query: "locality:Rancho San Jose stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 3
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "Ramphocaenus melanurus" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "psarocolius angustifrons" ; Times: 1
+	Query: "locality:Boquillas stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "preparations:nest" ; Times: 1
+	Query: "Phaethornis striigularis" ; Times: 1
+	Query: "painted bunting" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+
+
+End of report.
