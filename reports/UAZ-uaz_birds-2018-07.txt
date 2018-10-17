@@ -1,0 +1,142 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 637
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United Kingdom ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 17
+	Country: China ; Times: 2
+	Country: Peru ; Times: 51
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-20 ; Times: 4
+	Date: 2018-07-18 ; Times: 3
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-24 ; Times: 50
+	Date: 2018-07-01 ; Times: 8
+	Date: 2018-07-29 ; Times: 3
+	Date: 2018-07-28 ; Times: 2
+	Date: 2018-07-30 ; Times: 2
+	Date: 2018-07-03 ; Times: 1
+	Date: 2018-07-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Phaethon aethereus" ; Times: 2
+	Query: "Arizona elegans Cochise" ; Times: 2
+	Query: "Lesbia victoriae" ; Times: 2
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "UAZ 8215 SONORA" ; Times: 1
+	Query: "Ortalis guttata" ; Times: 2
+	Query: "Meleagris gallopavo Linnaeus" ; Times: 1
+	Query: "Conuropsis carolinensis vntype:specimen" ; Times: 1
+	Query: "13128 aves" ; Times: 1
+	Query: "class:Aves recordedby:Holland" ; Times: 3
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Agapornis lilianae " ; Times: 6
+	Query: "Florisuga mellivora" ; Times: 2
+	Query: "Dendragapus obscurus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "Crotophaga major" ; Times: 1
+	Query: "Phaethornis syrmatophorus" ; Times: 2
+	Query: "elf" ; Times: 5
+	Query: "Dendrocygna autumnalis" ; Times: 2
+	Query: "Cairina moschata" ; Times: 2
+	Query: "Columbina minuta" ; Times: 2
+	Query: "redfield canyon" ; Times: 1
+	Query: "Chauna torquata" ; Times: 2
+	Query: "Amazilia fimbriata" ; Times: 1
+	Query: "UAZ 8215" ; Times: 1
+	Query: "Coeligena inca" ; Times: 2
+	Query: "tigrisoma mexicanum" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 2
+	Query: "Crax globulosa" ; Times: 2
+	Query: "Anthracothorax prevostii" ; Times: 2
+	Query: "Tachybaptus dominicus" ; Times: 2
+	Query: "Campylopterus largipennis" ; Times: 2
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "gyrfalcon" ; Times: 2
+	Query: "Leptotila rufaxilla" ; Times: 2
+	Query: "Carolina parakeet" ; Times: 1
+	Query: "Claravis pretiosa" ; Times: 2
+	Query: "Nyctibius griseus" ; Times: 2
+	Query: "Eurypyga helias" ; Times: 2
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "cm 4597" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 2
+	Query: "redfield canyon arizona" ; Times: 1
+	Query: "specificepithet:bairdii genus:ammodramus" ; Times: 2
+	Query: "Coeligena torquata" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 977 download events in this period)
+Total number of records downloaded: 1206
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 19
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-17 ; Times: 4
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-06 ; Times: 4
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-31 ; Times: 3
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pipilo" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis order:Passeriformes" ; Times: 1
+	Query: "Conuropsis carolinensis vntype:specimen" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "vntype:specimen specificepithet:choliba genus:otus" ; Times: 1
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo order:Passeriformes" ; Times: 1
+	Query: "Hylophilus ochraceiceps" ; Times: 1
+	Query: "genus:eurocephalus" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Barred owl" ; Times: 1
+	Query: "specificepithet:bilineata genus:Amphispiza" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila" ; Times: 1
+	Query: "Carduelis pinus" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Manacus manacus" ; Times: 1
+	Query: "Poecile gambeli" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+
+
+End of report.
