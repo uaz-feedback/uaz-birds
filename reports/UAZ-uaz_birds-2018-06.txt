@@ -1,0 +1,155 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 405
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 18
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-13 ; Times: 5
+	Date: 2018-06-29 ; Times: 6
+	Date: 2018-06-28 ; Times: 6
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-26 ; Times: 6
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-20 ; Times: 6
+	Date: 2018-06-30 ; Times: 8
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "CM 3809" ; Times: 2
+	Query: "kori bustard" ; Times: 1
+	Query: "specificepithet:Pipra genus:Pipra country:&#34;Peru&#34;" ; Times: 1
+	Query: "blue grouse (california)" ; Times: 1
+	Query: "year &gt;= 2018 year &lt;= 2018" ; Times: 3
+	Query: "specificepithet:cucullata genus:cyanolyca" ; Times: 3
+	Query: "cienega creek county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Agapornis lilianae " ; Times: 16
+	Query: "elf" ; Times: 2
+	Query: "locality:EL MORRO stateprovince:&#34;NEW MEXICO&#34;" ; Times: 1
+	Query: "Gila bicolor" ; Times: 2
+	Query: "white-eyed vireo" ; Times: 1
+	Query: "Eriocnemis nigrivestis" ; Times: 2
+	Query: "northern hawk owl" ; Times: 1
+	Query: "Gallirallus torquatus" ; Times: 1
+	Query: "locality:el morro" ; Times: 2
+	Query: "blue grouse" ; Times: 4
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus country:&#34;Mexico&#34; year &gt;= 1960 year &lt;= 1965" ; Times: 1
+	Query: "specificepithet:pipra genus:Pipra country:&#34;Peru&#34;" ; Times: 4
+	Query: "Atlapetes melanocephalus" ; Times: 1
+	Query: "specificepithet:discors genus:Anas year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus preparations:skeleton" ; Times: 1
+	Query: "sterna maxima skeleton" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 87 (out of 1169 download events in this period)
+Total number of records downloaded: 1929
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 16
+	Country: United States ; Times: 60
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 4
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 8
+	Date: 2018-06-06 ; Times: 8
+	Date: 2018-06-05 ; Times: 9
+	Date: 2018-06-04 ; Times: 8
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 22
+	Date: 2018-06-23 ; Times: 4
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-18 ; Times: 5
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "American Beaver" ; Times: 4
+	Query: "snowy owl" ; Times: 2
+	Query: "specificepithet:Pipra genus:Pipra country:&#34;Peru&#34;" ; Times: 2
+	Query: "Guadalupe Island specificepithet:mexicanus" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sage grouse" ; Times: 2
+	Query: "Bobcat" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "melanerpes chrysogenys" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Eriocnemis nigrivestis" ; Times: 3
+	Query: "horned puffin" ; Times: 1
+	Query: "oriturus" ; Times: 1
+	Query: "elf owl" ; Times: 15
+	Query: "bald eagle" ; Times: 5
+	Query: "Band-tailed Pigeon" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Bombycilla cedrorum Vieillot" ; Times: 1
+	Query: "locality:el morro" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "spotted owl" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:costae genus:Calypte country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "blue footed booby" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Poecile hudsonica" ; Times: 2
+	Query: "penguin" ; Times: 2
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:heloisa genus:Atthis country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "puffin" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "sterna maxima" ; Times: 1
+	Query: "marbled murrelet" ; Times: 2
+
+
+End of report.
