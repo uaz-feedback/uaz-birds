@@ -1,0 +1,134 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 401
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Honduras ; Times: 11
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 30
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 3
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-06 ; Times: 2
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-01 ; Times: 7
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-29 ; Times: 3
+	Date: 2018-10-30 ; Times: 7
+	Date: 2018-10-11 ; Times: 3
+	Date: 2018-10-24 ; Times: 13
+	Date: 2018-10-15 ; Times: 1
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "anisognathus melanogenys" ; Times: 1
+	Query: "Obsoletus Sonora Mexico" ; Times: 1
+	Query: "catalognumber:008163" ; Times: 1
+	Query: "ferruginous hawk in Arizona" ; Times: 1
+	Query: "FMNH 1789" ; Times: 1
+	Query: "Piranga bidentata vntype:specimen stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:UAZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:aleutians stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "class:Aves recordedby:Holland" ; Times: 1
+	Query: "elephant bird" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 1
+	Query: "specificepithet:venustus genus:Granatellus" ; Times: 1
+	Query: "Ceyx cm" ; Times: 2
+	Query: "catalognumber:015058" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "zone-tailed hawk" ; Times: 3
+	Query: "specificepithet:fulica genus:heliornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Piranga bidentata stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "limosa fedoa sonora" ; Times: 1
+	Query: "kiwi" ; Times: 1
+	Query: "specificepithet:venustus genus:Granatellus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 3
+	Query: "county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34; year &gt;= 2017 year &lt;= 2018" ; Times: 1
+	Query: "gyrfalcon" ; Times: 1
+	Query: "pacific screech owl" ; Times: 1
+	Query: "Cypseloides niger mexico" ; Times: 1
+	Query: "Empidonax albigularis" ; Times: 11
+	Query: "king vulture" ; Times: 2
+	Query: "specificepithet:cyanea genus:chlorophonia country:&#34;colombia&#34;" ; Times: 4
+	Query: "class:aves recordedby:Brewer" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1300 download events in this period)
+Total number of records downloaded: 326
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Venezuela ; Times: 1
+	Country: United States ; Times: 18
+	Country: Belgium ; Times: 2
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-30 ; Times: 3
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-02 ; Times: 4
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-23 ; Times: 3
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis" ; Times: 1
+	Query: "glaucis hirsuta" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Carlsbad Caverns vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 3
+	Query: "genus:Parabuteo country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:heliornis" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "Olive-backed Sunbird" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Ridgwayia" ; Times: 4
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 2
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Empidonax albigularis" ; Times: 1
+	Query: "snowy owl vntype:specimen" ; Times: 1
+	Query: "vntype:specimen class:Aves county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+
+
+End of report.
