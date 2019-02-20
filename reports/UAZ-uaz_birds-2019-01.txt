@@ -1,0 +1,180 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 217
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 20
+	Country: Peru ; Times: 55
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-02 ; Times: 3
+	Date: 2019-01-08 ; Times: 3
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-14 ; Times: 4
+	Date: 2019-01-15 ; Times: 7
+	Date: 2019-01-09 ; Times: 15
+	Date: 2019-01-22 ; Times: 5
+	Date: 2019-01-10 ; Times: 6
+	Date: 2019-01-11 ; Times: 8
+	Date: 2019-01-12 ; Times: 4
+	Date: 2019-01-13 ; Times: 12
+	Date: 2019-01-21 ; Times: 3
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-16 ; Times: 3
+	Date: 2019-01-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sericulus ansp" ; Times: 1
+	Query: "little egret" ; Times: 1
+	Query: "bird of pray" ; Times: 1
+	Query: "Amaurolimnas concolor" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Ortalis guttata" ; Times: 1
+	Query: "specificepithet:pallida genus:Spizella stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "red siskin" ; Times: 2
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "Coeligena inca" ; Times: 2
+	Query: "specificepithet:roseogularis genus:Piranga year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "Tigrisoma mexicanum" ; Times: 1
+	Query: "specificepithet:rufigularis genus:falco" ; Times: 1
+	Query: "albicaudatus (Arizona)" ; Times: 1
+	Query: "Phaethornis syrmatophorus" ; Times: 1
+	Query: "Furnarius leucopus" ; Times: 1
+	Query: "Myrmochanes hemileucus" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Columbina minuta" ; Times: 1
+	Query: "locality:Juncalito" ; Times: 1
+	Query: "Amaurolimnas concolor concolor" ; Times: 1
+	Query: "Chauna torquata" ; Times: 1
+	Query: "Psophia leucoptera" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Selenidera reinwardtii" ; Times: 1
+	Query: "Galbula cyanicollis" ; Times: 1
+	Query: "obsoletus yavapai" ; Times: 2
+	Query: "Guadalupe finch" ; Times: 1
+	Query: "Capito auratus" ; Times: 1
+	Query: "Eubucco versicolor" ; Times: 1
+	Query: "Crax globulosa" ; Times: 1
+	Query: "Amazona amazonica" ; Times: 1
+	Query: "Galbalcyrhynchus leucotis" ; Times: 1
+	Query: "Thamnophilus cryptoleucus" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "Brotogeris cyanoptera" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "Brotogeris versicolurus" ; Times: 1
+	Query: "Oceanodroma microsoma" ; Times: 1
+	Query: "Geositta punensis" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Chelidoptera tenebrosa" ; Times: 1
+	Query: "Forpus xanthopterygius" ; Times: 1
+	Query: "Andigena hypoglauca" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Guadalupe Wren" ; Times: 1
+	Query: "specificepithet:platypterus genus:buteo stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "preparations:skeletons basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Scytalopus unicolor" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Coccyzus melacoryphus" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "sage-grouse skeleton" ; Times: 1
+	Query: "Myrmoborus lugubris" ; Times: 1
+	Query: "cONUROPSIS" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufigularis genus:falco" ; Times: 1
+	Query: "Celeus flavus" ; Times: 1
+	Query: "Celeus grammicus" ; Times: 1
+	Query: "Psophia crepitans" ; Times: 1
+	Query: "014525" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 962 download events in this period)
+Total number of records downloaded: 731
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Canada ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 5
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-01 ; Times: 4
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-04 ; Times: 2
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-09 ; Times: 6
+	Date: 2019-01-22 ; Times: 5
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-11 ; Times: 3
+	Date: 2019-01-24 ; Times: 3
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Melanerpes uropygialis" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina" ; Times: 1
+	Query: "Polioptila melanura" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "specificepithet:sallaei genus:Granatellus" ; Times: 2
+	Query: "stateprovince:&#34;Nayarit&#34; recordedby:Phillips" ; Times: 1
+	Query: "melanerpes uropygialis" ; Times: 1
+	Query: "specificepithet:poliogaster genus:Caryothraustes" ; Times: 1
+	Query: "specificepithet:roseogularis genus:Piranga" ; Times: 1
+	Query: "Colaptes chrysoides" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Oceanodroma melania" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "sphyrapicus nuchalis sex:female" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:venustus venustus genus:Granatellus" ; Times: 2
+	Query: "rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+	Query: "specificepithet:sula genus:Sula stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "rosy finch" ; Times: 1
+	Query: "Leucosticte atrata" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "reddish egret" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "specificepithet:rositae genus:Passerina" ; Times: 1
+	Query: "PIONUS SENILIS" ; Times: 1
+	Query: "Hylocharis xantusii" ; Times: 1
+	Query: "cONUROPSIS" ; Times: 1
+	Query: "specificepithet:parellina genus:Cyanocompsa" ; Times: 1
+	Query: "specificepithet:flava genus:Piranga year &gt;= 1975 year &lt;= 2018" ; Times: 1
+
+
+End of report.
