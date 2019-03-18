@@ -1,0 +1,157 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 276
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Cuba ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 49
+	Country: Ireland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 3
+	Date: 2019-02-04 ; Times: 11
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-10 ; Times: 3
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-07 ; Times: 2
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-15 ; Times: 6
+	Date: 2019-02-08 ; Times: 14
+	Date: 2019-02-28 ; Times: 4
+	Date: 2019-02-01 ; Times: 3
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "swallow-tailed kite" ; Times: 1
+	Query: "Ramphastos vitellinus" ; Times: 2
+	Query: "country:&#34;mexico&#34; recordnumber:1271" ; Times: 1
+	Query: "specificepithet:diardi genus:lophura" ; Times: 1
+	Query: "Progne subis arizona" ; Times: 1
+	Query: "vntype:specimen specificepithet:sanguinea genus:cacatua (skeleton)" ; Times: 1
+	Query: "genus:Taeniopygia basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "Procnias nudicollis" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "stateprovince:&#34;Nevada&#34; genus:Buteo specificepithet:regalis" ; Times: 1
+	Query: "female skeletons" ; Times: 1
+	Query: "Nesofregetta fuliginosa" ; Times: 2
+	Query: "Lesser Roadrunner" ; Times: 5
+	Query: "Crax rubra" ; Times: 3
+	Query: "Toxostoma lecontei nevada" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "ASU 1789" ; Times: 1
+	Query: "specificepithet:prasina genus:erythrura class:aves" ; Times: 1
+	Query: "specificepithet:grammicus genus:celeus" ; Times: 1
+	Query: "Reid Park Zoo" ; Times: 4
+	Query: "Cephalopterus glabricollis" ; Times: 2
+	Query: "Myrmochanes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crax globulosa" ; Times: 2
+	Query: "specificepithet:pachyrhyncha genus:Rhynchopsitta country:&#34;United States&#34;" ; Times: 1
+	Query: "montezuma quail" ; Times: 2
+	Query: "Eriocnemis nigrivestis" ; Times: 1
+	Query: "thamnophilus cryptoleucus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "owl stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 1962" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "red bellied woodpecker" ; Times: 2
+	Query: "specificepithet:quadribrachys genus:Alcedo country:&#34;Cameroon&#34;" ; Times: 1
+	Query: "Myrmochanes class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Puffinus auricularis" ; Times: 1
+	Query: "Myrmoborus lugubris" ; Times: 2
+	Query: "wings barn owl" ; Times: 1
+	Query: "sungrebe" ; Times: 1
+	Query: "specificepithet:stolzmanni genus:Chlorothraupis" ; Times: 1
+	Query: "specificepithet:owstoni genus:gallirallus" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "Penelopina nigra" ; Times: 2
+	Query: "specificepithet:pavonina genus:Balearica" ; Times: 1
+	Query: "vntype:specimen specificepithet:stolzmanni genus:Chlorothraupis" ; Times: 1
+	Query: "Myrmochanes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1227 download events in this period)
+Total number of records downloaded: 354
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: United States ; Times: 22
+	Country: Mexico ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 4
+	Date: 2019-02-04 ; Times: 4
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-13 ; Times: 7
+	Date: 2019-02-11 ; Times: 6
+	Date: 2019-02-03 ; Times: 6
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-15 ; Times: 4
+	Date: 2019-02-07 ; Times: 2
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:myzomela basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:rositae genus:Passerina" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina sex:male" ; Times: 1
+	Query: "amazona albifrons" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 1
+	Query: "specificepithet:viridicata genus:Myiopagis" ; Times: 1
+	Query: "specificepithet:diardi genus:lophura" ; Times: 1
+	Query: "Granatellus venustus venustus" ; Times: 1
+	Query: "calocitta colliei" ; Times: 1
+	Query: "tree swallow" ; Times: 1
+	Query: "(&#34;toxostoma longirostre&#34;)" ; Times: 1
+	Query: "genus:Taeniopygia basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:versicolor genus:Passerina year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:sanguinea genus:cacatua" ; Times: 1
+	Query: "specificepithet:torquatus genus:gallirallus" ; Times: 1
+	Query: "specificepithet:castaneus genus:celeus" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "(Aphelocoma) year &gt;= 1985 year &lt;= 1990" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:polyglottos genus:mimus" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:grammicus genus:celeus" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "specificepithet:lineata genus:conopophaga" ; Times: 1
+	Query: "specificepithet:pachyrhyncha genus:Rhynchopsitta country:&#34;United States&#34;" ; Times: 1
+	Query: "montezuma quail" ; Times: 1
+	Query: "thamnophilus cryptoleucus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "vntype:specimen specificepithet:polyglottos genus:mimus (skeleton)" ; Times: 1
+	Query: "Conirostrum bicolor basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:migratorius genus:turdus" ; Times: 1
+	Query: "Myrmochanes class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myrmoborus lugubris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:owstoni genus:gallirallus" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "specificepithet:flavus genus:celeus" ; Times: 1
+	Query: "specificepithet:philippensis genus:gallirallus" ; Times: 2
+	Query: "toxostoma redivivum" ; Times: 1
+
+
+End of report.
