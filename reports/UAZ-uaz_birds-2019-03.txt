@@ -1,0 +1,126 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 992
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 61
+	Country: Netherlands ; Times: 1
+	Country: Honduras ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Denmark ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 6
+	Date: 2019-03-06 ; Times: 18
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-30 ; Times: 4
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-05 ; Times: 2
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-07 ; Times: 12
+	Date: 2019-03-15 ; Times: 2
+	Date: 2019-03-01 ; Times: 3
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-10 ; Times: 8
+	Date: 2019-03-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Arizona" ; Times: 4
+	Query: "sturnella magna sonora" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:California" ; Times: 3
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "class:aves county:&#34;ventura&#34; year &gt;= 2015 year &lt;= 2018" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "91415" ; Times: 1
+	Query: "002925" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Michigan" ; Times: 4
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Coeligena phalerata" ; Times: 2
+	Query: "recordedby:Thornburgh" ; Times: 2
+	Query: "Aquila chrysaetos year &gt; 1990 NOT clo" ; Times: 2
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "sturnella magna nogales" ; Times: 1
+	Query: "Haliaeetus leucocephalus year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Reid Park Zoo" ; Times: 2
+	Query: "indigo bunting ohio" ; Times: 1
+	Query: "Crax globulosa" ; Times: 2
+	Query: "montezuma quail" ; Times: 18
+	Query: "muscovy duck" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "vntype:specimen specificepithet:diardi genus:lophura" ; Times: 1
+	Query: "white-tailed hawk" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:New Jersey" ; Times: 4
+	Query: "White-throated Flycatcher" ; Times: 2
+	Query: "San Pedro River Fairbank Arizona vntype:specimen" ; Times: 1
+	Query: "Myrmoborus lugubris" ; Times: 2
+	Query: "Melanerpes uropygialis 1854" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1281 download events in this period)
+Total number of records downloaded: 413
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: United Kingdom ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 2
+	Date: 2019-03-02 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-17 ; Times: 4
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-06 ; Times: 2
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "american coot" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:torquatus genus:gallirallus" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "Lorius garrulus" ; Times: 1
+	Query: "Icterus prosthemelas" ; Times: 1
+	Query: "Aethopyga mystacalis" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "genus:Leucosticte stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:saya genus:Sayornis family:Tyrannidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Coeligena phalerata" ; Times: 1
+	Query: "Cacicus melanicterus" ; Times: 1
+	Query: "montezuma quail" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "corvus caurinus" ; Times: 1
+
+
+End of report.
