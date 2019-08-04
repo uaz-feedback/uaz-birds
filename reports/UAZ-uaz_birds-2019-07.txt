@@ -1,0 +1,146 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 703
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 55
+	Country: Gambia ; Times: 1
+	Country: Nepal ; Times: 4
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 9
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 5
+	Date: 2019-07-12 ; Times: 13
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-16 ; Times: 3
+	Date: 2019-07-17 ; Times: 3
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-15 ; Times: 7
+	Date: 2019-07-03 ; Times: 3
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-08 ; Times: 9
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-25 ; Times: 5
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-30 ; Times: 5
+	Date: 2019-07-29 ; Times: 3
+	Date: 2019-07-28 ; Times: 2
+	Date: 2019-07-05 ; Times: 4
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-07 ; Times: 3
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Campylopterus specificepithet:curvipennis" ; Times: 1
+	Query: "buceros rhinoceros" ; Times: 2
+	Query: "genus:Porphyrio specificepithet:martinica" ; Times: 1
+	Query: "vntype:specimen genus:Eudromia preparations:skin AND (NOT immature NOT chick) institutioncode:UAZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "genus:Pagodroma specificepithet:nivea" ; Times: 1
+	Query: "Blue-breasted Quail" ; Times: 2
+	Query: "genus:Tachybaptus specificepithet:dominicus" ; Times: 1
+	Query: "class:Aves recordedby:Holland" ; Times: 1
+	Query: "locality:Durango year &gt;= 1961 institutioncode:UAZ" ; Times: 2
+	Query: "Agapornis pullarius" ; Times: 1
+	Query: "asturina nitida" ; Times: 2
+	Query: "Nectarinia coccinigastra" ; Times: 1
+	Query: "specificepithet:molitor genus:batis country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:concolor genus:Amaurospiza" ; Times: 1
+	Query: "genus:Ictinia specificepithet:mississippiensis" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "class:aves locality:lawrence stateprovince:&#34;alaska&#34; recordedby:cade" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "vntype:specimen specificepithet:carolinus genus:Melanerpes preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Chloroceryle specificepithet:aenea" ; Times: 1
+	Query: "Agapornis lilianae" ; Times: 6
+	Query: "Nesofregetta fuliginosa" ; Times: 2
+	Query: "genus:Rhabdornis specificepithet:mystacalis" ; Times: 1
+	Query: "Turdus migratorius AND Catalina" ; Times: 1
+	Query: "vntype:specimen specificepithet:torda genus:Alca stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Empidonax year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "Buceros rhinoceros" ; Times: 2
+	Query: "royal tern skeleton" ; Times: 1
+	Query: "black hawk-eagle" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Arizona&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "genus:Lampornis specificepithet:clemenciae" ; Times: 1
+	Query: "Meleagris gallopavo year &gt;= 1980 year &lt;= 1982" ; Times: 2
+	Query: "gbifdatasetid:96c383a8-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "specificepithet:celata genus:vermivora stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:coronata genus:Dendroica stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "gbifdatasetid:96c383a8-f762-11e1-a439-00145eb45e9a procellariiformes" ; Times: 1
+	Query: "Poicephalus senegalus" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "specificepithet:obsoletus county:&#34;Apache&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 15
+	Query: "specificepithet:noveboracensis genus:Coturnicops stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "locality:Durango institutioncode:UAZ" ; Times: 2
+	Query: "specificepithet:stolzmanni genus:Chlorothraupis" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina sex:female year &gt;= 1955" ; Times: 1
+	Query: "vireo marshall" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 985 download events in this period)
+Total number of records downloaded: 257
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 12
+	Country: Guatemala ; Times: 1
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 3
+	Date: 2019-07-02 ; Times: 3
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-10 ; Times: 3
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Branta bernicla" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:mystaceus genus:Platyrinchus class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:celata genus:vermivora stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:gujanensis genus:Cyclarhis class:Aves" ; Times: 1
+	Query: "crax rubra" ; Times: 8
+	Query: "upupa epops" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:griseicapillus genus:Sittasomus class:Aves" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:collaris genus:trogon" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo" ; Times: 1
+	Query: "locality:Coronados" ; Times: 1
+	Query: "Meleagris gallopavo year &gt;= 1980 year &lt;= 1982" ; Times: 1
+	Query: "specificepithet:varius genus:Sphyrapicus country:&#34;canada&#34; month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "Chen canagica" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+
+
+End of report.
