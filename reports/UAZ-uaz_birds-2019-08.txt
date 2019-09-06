@@ -1,0 +1,289 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 284
+Number of records retrieved in searches: 1253
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 69
+	Country: Italy ; Times: 6
+	Country: Mexico ; Times: 30
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 30
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 105
+	Country: Denmark ; Times: 16
+	Country: Russia ; Times: 7
+	Country: Brazil ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-29 ; Times: 3
+	Date: 2019-08-01 ; Times: 3
+	Date: 2019-08-02 ; Times: 4
+	Date: 2019-08-03 ; Times: 4
+	Date: 2019-08-05 ; Times: 33
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-07 ; Times: 2
+	Date: 2019-08-08 ; Times: 14
+	Date: 2019-08-09 ; Times: 5
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 22
+	Date: 2019-08-20 ; Times: 8
+	Date: 2019-08-21 ; Times: 6
+	Date: 2019-08-16 ; Times: 10
+	Date: 2019-08-15 ; Times: 32
+	Date: 2019-08-14 ; Times: 105
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-11 ; Times: 1
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-19 ; Times: 8
+	Date: 2019-08-18 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendrocincla homochroa country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Coeligena wilsoni" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Aramides cajanea" ; Times: 1
+	Query: "Premnoplex brunnescens" ; Times: 1
+	Query: "Amazilia beryllina" ; Times: 1
+	Query: "Ramphastos vitellinus" ; Times: 2
+	Query: "Porphyrio martinica" ; Times: 4
+	Query: "Plectrophenax nivalis (Pribilof Islands)" ; Times: 1
+	Query: "Conopophaga lineata" ; Times: 1
+	Query: "Phaethornis syrmatophorus" ; Times: 1
+	Query: "Vestiaria coccinea" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca) institutioncode:UAZ" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "specificepithet:muticus genus:Pavo" ; Times: 2
+	Query: "Psophia leucoptera" ; Times: 1
+	Query: "Chauna torquata" ; Times: 1
+	Query: "Piranga bidentata" ; Times: 1
+	Query: "Ammodramus aurifrons" ; Times: 1
+	Query: "Amazilia violiceps" ; Times: 1
+	Query: "specificepithet:fasciata genus:Chamaea year&gt;1980 year&lt;2020" ; Times: 1
+	Query: "Scytalopus latebricola" ; Times: 1
+	Query: "Arremon aurantiirostris" ; Times: 1
+	Query: "Campylopterus curvipennis" ; Times: 1
+	Query: "Amazona amazonica" ; Times: 1
+	Query: "Bulweria bulwerii" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "Phaethornis anthophilus" ; Times: 1
+	Query: "Oceanodroma microsoma" ; Times: 1
+	Query: "Pagodroma nivea" ; Times: 1
+	Query: "Atthis heloisa" ; Times: 1
+	Query: "Ardeotis kori" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Atalotriccus pilaris" ; Times: 1
+	Query: "Lampornis clemenciae" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Phaethornis striigularis" ; Times: 1
+	Query: "snail mexico" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Pseudotriccus pelzelni" ; Times: 1
+	Query: "Amazilia saucerrottei" ; Times: 1
+	Query: "Icterus mesomelas" ; Times: 2
+	Query: "Euphonia trinitatis" ; Times: 1
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Coronados OR Coronado) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca) year &gt;= 2013 year &lt;= 2013" ; Times: 1
+	Query: "Ciccaba virgata" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Piranga erythrocephala" ; Times: 1
+	Query: "genus:Psalidoprocne preparations:skeleton" ; Times: 7
+	Query: "Phaethornis longirostris" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 5
+	Query: "Leptotila rufaxilla" ; Times: 1
+	Query: "Tockus erythrorhynchus" ; Times: 1
+	Query: "genus:Podiceps locality:Salton county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:nigrivestis genus:Eriocnemis" ; Times: 2
+	Query: "specificepithet:erithacus genus:Psittacus" ; Times: 2
+	Query: "Chlorophonia cyanea" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius" ; Times: 4
+	Query: "Oreotrochilus chimborazo" ; Times: 1
+	Query: "Serpophaga cinerea" ; Times: 1
+	Query: "Coeligena phalerata" ; Times: 1
+	Query: "Doricha enicura" ; Times: 1
+	Query: "Thamnophilus cryptoleucus" ; Times: 1
+	Query: "Rhodinocichla rosea" ; Times: 1
+	Query: "Amazilia viridifrons" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Anurolimnas fasciatus" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "Brotogeris cyanoptera" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Scytalopus unicolor" ; Times: 1
+	Query: "Coronado family:Alcidae AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 8
+	Query: "Campylopterus largipennis" ; Times: 2
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 3
+	Query: "Psophia crepitans" ; Times: 2
+	Query: "genus:Morus  specificepithet:bassanus" ; Times: 1
+	Query: "Rhea americana" ; Times: 2
+	Query: "genus:Podiceps county:&#34;Riverside&#34;" ; Times: 1
+	Query: "family:Alcidae (Coronados Coronado) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Eudromia elegans" ; Times: 1
+	Query: "specificepithet:superciliosus genus:Merops country:&#34;Angola&#34; year &gt;= 1950" ; Times: 1
+	Query: "Myrmochanes hemileucus" ; Times: 1
+	Query: "Heliodoxa imperatrix" ; Times: 1
+	Query: "Ortalis guttata" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Thinocorus orbignyianus" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "Tigrisoma mexicanum" ; Times: 1
+	Query: "Amazilia rutila" ; Times: 1
+	Query: "locality:castle county:&#34;san joaquin&#34;" ; Times: 1
+	Query: "specificepithet:cassinii order:Passeriformes class:Aves county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Columbina minuta" ; Times: 1
+	Query: "Mycteria americana" ; Times: 3
+	Query: "Galbalcyrhynchus leucotis" ; Times: 1
+	Query: "Bucco macrodactylus" ; Times: 1
+	Query: "genus:sturnus stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "Celeus grammicus" ; Times: 1
+	Query: "Molothrus oryzivorus" ; Times: 1
+	Query: "Emberiza tristrami" ; Times: 1
+	Query: "Eubucco versicolor" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 3
+	Query: "Ramphastos sulfuratus" ; Times: 2
+	Query: "genus:Lonchura  specificepithet:punctulata" ; Times: 1
+	Query: "Scytalopus magellanicus" ; Times: 1
+	Query: "Forpus xanthopterygius" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Vireo bellii" ; Times: 6
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "Hemitriccus margaritaceiventer" ; Times: 1
+	Query: "Threnetes ruckeri" ; Times: 1
+	Query: "Gracula" ; Times: 1
+	Query: "Amaurolimnas concolor" ; Times: 1
+	Query: "Geositta punensis" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Chelidoptera tenebrosa" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Brachyramphus" ; Times: 2
+	Query: "Selenidera reinwardtii" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 13
+	Query: "Elaenia obscura" ; Times: 1
+	Query: "Atlapetes melanocephalus" ; Times: 1
+	Query: "Galbula cyanicollis" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Oncostoma cinereigulare" ; Times: 1
+	Query: "pavo muticus" ; Times: 1
+	Query: "Trogon personatus" ; Times: 1
+	Query: "Notharchus macrorhynchos" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "holochlora oaxaca" ; Times: 29
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "Brotogeris versicolurus" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus" ; Times: 2
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "green parakeet oaxaca" ; Times: 2
+	Query: "Celeus flavus" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "Tilmatura dupontii" ; Times: 1
+	Query: "specificepithet:concolor genus:Amaurospiza" ; Times: 1
+	Query: "Furnarius leucopus" ; Times: 1
+	Query: "class:aves recordedby:dawson year &gt;= 1912" ; Times: 2
+	Query: "Brachyramphus marmoratus" ; Times: 6
+	Query: "Eriocnemis nigrivestis" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "Pteroglossus aracari" ; Times: 1
+	Query: "Capito auratus" ; Times: 1
+	Query: "Catharus dryas" ; Times: 1
+	Query: "Himatione sanguinea" ; Times: 1
+	Query: "Amblyospiza albifrons" ; Times: 1
+	Query: "Hylomanes momotula" ; Times: 1
+	Query: "specificepithet:Scalaris stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "Psarocolius angustifrons" ; Times: 1
+	Query: "specificepithet:superciliosus genus:Merops country:&#34;Angola&#34;" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 2
+	Query: "Andigena hypoglauca" ; Times: 1
+	Query: "Mionectes macconnelli" ; Times: 2
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Coccyzus melacoryphus" ; Times: 1
+	Query: "specificepithet:californianus genus:Gymnogyps" ; Times: 2
+	Query: "Crax globulosa" ; Times: 1
+	Query: "Myrmoborus lugubris" ; Times: 1
+	Query: "Chlorophanes spiza" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 3
+	Query: "Dendrocincla homochroa" ; Times: 1
+	Query: "genus:Pygoscelis family:Spheniscidae sex:Female preparations:skeleton" ; Times: 1
+	Query: "Chauna chavaria" ; Times: 1
+	Query: "Calidris canutus" ; Times: 2
+	Query: "Coccyzus americanus americanus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1034 download events in this period)
+Total number of records downloaded: 86
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 11
+	Country: Italy ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-16 ; Times: 2
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 5
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-25 ; Times: 3
+	Date: 2019-08-22 ; Times: 3
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pavo muticus" ; Times: 1
+	Query: "Phaethornis superciliosus" ; Times: 1
+	Query: "saxicola rubicola" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:virescens genus:Empidonax" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "family:tinamidae preparations:skeleton" ; Times: 1
+	Query: "Arequipa" ; Times: 2
+	Query: "(passer domesticus) year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Polysticta stelleri" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "Diglossa" ; Times: 1
+	Query: "Glyphorynchus spirurus" ; Times: 1
+	Query: "Gracula" ; Times: 1
+	Query: "crax rubra" ; Times: 4
+	Query: "Anser albifrons" ; Times: 1
+	Query: "psophia" ; Times: 1
+	Query: "genus:Centrocercus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:gentilis genus:Accipiter AND (NOT cooperii NOT striatus) year &gt;= 1990" ; Times: 1
+	Query: "Mountain Quail" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+
+
+End of report.
