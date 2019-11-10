@@ -1,0 +1,137 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 94
+Number of records retrieved in searches: 858
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 72
+	Country: Canada ; Times: 3
+	Country: Denmark ; Times: 7
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 5
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-01 ; Times: 3
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 66
+	Date: 2019-09-05 ; Times: 2
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cana Honda" ; Times: 1
+	Query: "Calidris canutus" ; Times: 5
+	Query: "vntype:specimen class:aves locality:machakos year &gt;= 1964 year &lt;= 1990" ; Times: 1
+	Query: "class:Aves recordedby:McCaskie" ; Times: 1
+	Query: "specificepithet:discolor genus:Lathamus" ; Times: 5
+	Query: "elf" ; Times: 1
+	Query: "anurolimnas fasciatus" ; Times: 1
+	Query: "Apteryx" ; Times: 1
+	Query: "laterallus ruber vntype:specimen" ; Times: 1
+	Query: "kiwi" ; Times: 1
+	Query: "uaz 13711" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 15
+	Query: "Buceros rhinoceros" ; Times: 3
+	Query: "psophia leucoptera" ; Times: 1
+	Query: "cypseloides niger basisofrecord:PreservedSpecimen country:canada" ; Times: 1
+	Query: "Ceryle AND Cruz" ; Times: 1
+	Query: "nesofregetta fuliginosa" ; Times: 1
+	Query: "palumbus Columba" ; Times: 3
+	Query: "Gallirallus owstoni" ; Times: 2
+	Query: "duck wings" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 5
+	Query: "mourning dove wing" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 12
+	Query: "elegans Trogon Female" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 27
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1073 download events in this period)
+Total number of records downloaded: 249
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 14
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 6
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucis hirsuta" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "conirostrum bicolor" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "vntype:specimen class:aves locality:machakos year &gt;= 1964 year &lt;= 1990" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Phaethornis syrmatophorus" ; Times: 1
+	Query: "anurolimnas fasciatus" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "juquila" ; Times: 1
+	Query: "laterallus ruber vntype:specimen" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Mixtepec" ; Times: 1
+	Query: "Cyanocorax affinis" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Juchatengo" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 2
+	Query: "Myioborus miniatus" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+
+
+End of report.
