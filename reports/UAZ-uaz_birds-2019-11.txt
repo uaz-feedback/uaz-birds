@@ -1,0 +1,142 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 133
+Number of records retrieved in searches: 518
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 121
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 5
+	Date: 2019-11-21 ; Times: 3
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-19 ; Times: 4
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-08 ; Times: 14
+	Date: 2019-11-09 ; Times: 20
+	Date: 2019-11-06 ; Times: 5
+	Date: 2019-11-07 ; Times: 36
+	Date: 2019-11-16 ; Times: 23
+	Date: 2019-11-11 ; Times: 4
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-01 ; Times: 3
+	Date: 2019-11-15 ; Times: 3
+	Date: 2019-11-14 ; Times: 2
+	Date: 2019-11-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Rallus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "specificepithet:celata stateprovince:&#34;washington&#34; month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "Sharp-tailed grouse" ; Times: 2
+	Query: "Coccyzus americanus 2000" ; Times: 4
+	Query: "Coccyzus americanus 2002" ; Times: 4
+	Query: "Coccyzus americanus 2007" ; Times: 4
+	Query: "recordnumber:0245" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Buteo platypterus mexico" ; Times: 1
+	Query: "UAZ 5510" ; Times: 1
+	Query: "India bird class:aves country:&#34;India&#34; preparations:skin institutioncode:UAZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "uaz 5635" ; Times: 1
+	Query: "Aquila chrysaetos year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "UAZ 5423" ; Times: 1
+	Query: "Coccyzus americanus 1998" ; Times: 4
+	Query: "Brachyramphus marmoratus 2015" ; Times: 5
+	Query: "Brachyramphus marmoratus 2016" ; Times: 4
+	Query: "Coccyzus americanus 1995" ; Times: 4
+	Query: "elf" ; Times: 2
+	Query: "Coccyzus americanus 1991" ; Times: 4
+	Query: "flammulated owl" ; Times: 2
+	Query: "Agapornis lilianae" ; Times: 3
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "locality:12 mi. NW Tucson" ; Times: 1
+	Query: "yellow rail" ; Times: 3
+	Query: "Piping plover" ; Times: 4
+	Query: "Charadrius melodus 2016" ; Times: 4
+	Query: "Charadrius melodus 2015" ; Times: 4
+	Query: "hoatzin" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Mycteria americana 1973" ; Times: 4
+	Query: "Mycteria americana 1972" ; Times: 4
+	Query: "Anhinga anhinga USNM year &gt; 1990" ; Times: 1
+	Query: "Coccyzus americanus 1983" ; Times: 4
+	Query: "Coccyzus americanus 1982" ; Times: 4
+	Query: "Coccyzus americanus 1985" ; Times: 4
+	Query: "Coccyzus americanus 1984" ; Times: 4
+	Query: "Coccyzus americanus 1986" ; Times: 4
+	Query: "240589" ; Times: 1
+	Query: "Coccyzus americanus 1988" ; Times: 4
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "Huber AND Puffinus puffinus opisthomelas" ; Times: 1
+	Query: "Coccyzus americanus 2014" ; Times: 4
+	Query: "Coccyzus americanus 2015" ; Times: 2
+	Query: "014872" ; Times: 1
+	Query: "genus:Rallus county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes year &gt;= 1980 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "specificepithet:celata class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Mycteria americana 2002" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1367 download events in this period)
+Total number of records downloaded: 742
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: South Korea ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-26 ; Times: 6
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 5
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 3
+	Date: 2019-11-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "seaside sparrow" ; Times: 1
+	Query: "SHARP-TAILED SPARROW" ; Times: 1
+	Query: "vireo vicinior" ; Times: 1
+	Query: "family:emberizidae country:&#34;korea&#34; year &gt;= 1910 basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "savannah sparrow" ; Times: 1
+	Query: "flammulated owl" ; Times: 1
+	Query: "family:Cardinalidae (nest)" ; Times: 1
+	Query: "specificepithet:pilaris genus:Atalotriccus" ; Times: 1
+	Query: "saltmarsh sparrow" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "gray vireo" ; Times: 1
+	Query: "trochilidae preparations:wing" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "scytalopus magellanicus" ; Times: 1
+	Query: "India bird class:aves country:&#34;India&#34; preparations:skin institutioncode:UAZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "swamp sparrow" ; Times: 1
+
+
+End of report.
