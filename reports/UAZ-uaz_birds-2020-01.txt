@@ -1,0 +1,129 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 560
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 4
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 7
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 5
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-14 ; Times: 13
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-23 ; Times: 6
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-10 ; Times: 3
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-30 ; Times: 3
+	Date: 2020-01-20 ; Times: 4
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ciconia abdimii" ; Times: 1
+	Query: "Greylag goose" ; Times: 1
+	Query: "Tyrannus crassirostris skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 4
+	Query: "specificepithet:carolinus genus:Melanerpes preparations:skeleton" ; Times: 2
+	Query: "jocosus Pycnonotus" ; Times: 1
+	Query: "Tufted duck" ; Times: 1
+	Query: "Myiarchus nuttingi skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "Burhinus senegalensis" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "picoides stricklandi year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "genus:Mimus year &gt;= 2000 year &lt;= 2019 institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides country:&#34;Canada&#34; year &gt;= 1985 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius country:&#34;peru&#34;" ; Times: 1
+	Query: "scientificname:Andigena hypoglauca " ; Times: 1
+	Query: "012996" ; Times: 1
+	Query: "genus:Zonotrichia year &gt;= 2000 year &lt;= 2019 institutioncode:UAZ" ; Times: 1
+	Query: "aves catharus occidentalis skel OR skeleton country:Mexico" ; Times: 1
+	Query: "Myiarchus tyrannulus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "common poorwill" ; Times: 3
+	Query: "Ara militaris" ; Times: 7
+	Query: "Garganey" ; Times: 2
+	Query: "Myiarchus cinerascens skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "genus:ictinia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:UAZ" ; Times: 1
+	Query: "black-bellied whistling-duck" ; Times: 1
+	Query: "014872" ; Times: 1
+	Query: "UAM 7812" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter preparations:skin year &gt;= 1980 institutioncode:UAZ" ; Times: 1
+	Query: "Icterus prosthemelas vntype:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "UAM 7814" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1584 download events in this period)
+Total number of records downloaded: 711
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 8
+	Country: France ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 2
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-22 ; Times: 3
+	Date: 2020-01-25 ; Times: 2
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 2
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Oaxaca&#34; hastissue:1" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "Cynanthus sordidus" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:tephrocotis genus:leucosticte month &gt;= 5 month &lt;= 9 haslifestage:1" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Bates" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Williams" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "genus:Cursorius family:Glareolidae class:Aves continent:Africa" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Forbes-Watson" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Arizona&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;Arizona&#34;" ; Times: 1
+
+
+End of report.
