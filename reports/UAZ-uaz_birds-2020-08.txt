@@ -1,0 +1,114 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 316
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 19
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-06 ; Times: 2
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-21 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "kiwi" ; Times: 2
+	Query: "specificepithet:chimborazo genus:Oreotrochilus family:Trochilidae" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Poecile montanus" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "paradise parrot" ; Times: 1
+	Query: "reid park zoo" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Myiodynastes maculatus" ; Times: 1
+	Query: "Gracula religiosa" ; Times: 1
+	Query: "Rhynchopsitta preparations:skeleton" ; Times: 1
+	Query: "genus:pagodroma basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "Piranga bidentata" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "Columba palumbus" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "Northern Hawk Owl" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "phoenix zoo" ; Times: 1
+	Query: "Cardinalis cardinalis ws OR wingspan OR wing+span" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 1
+	Query: "Eclectus roratus" ; Times: 1
+	Query: "Piranga erythrocephala" ; Times: 1
+	Query: "Mexican Duck" ; Times: 1
+	Query: "Aegithalos caudatus" ; Times: 1
+	Query: "008417" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 756 download events in this period)
+Total number of records downloaded: 270
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-03 ; Times: 3
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-06 ; Times: 3
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2020" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Northern Hawk Owl" ; Times: 1
+	Query: "genus:pagodroma basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "oriturus" ; Times: 1
+	Query: "Amazona finschi" ; Times: 1
+	Query: "specificepithet:macroura genus:vidua" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Lipaugus vociferans" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 2000" ; Times: 1
+	Query: "vntype:specimen genus:Cardinalis stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Myadestes" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "Warbling Vireo" ; Times: 1
+
+
+End of report.
