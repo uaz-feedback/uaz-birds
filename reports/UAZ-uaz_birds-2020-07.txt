@@ -1,0 +1,141 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 447
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 30
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: Finland ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-22 ; Times: 8
+	Date: 2020-07-01 ; Times: 2
+	Date: 2020-07-03 ; Times: 7
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-24 ; Times: 4
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-29 ; Times: 6
+	Date: 2020-07-28 ; Times: 4
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-14 ; Times: 3
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:plumifera order:galliformes" ; Times: 1
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "specificepithet:mystacalis genus:rhabdornis country:&#34;philippines&#34;" ; Times: 1
+	Query: "Cooper AND Catalina AND 1861" ; Times: 1
+	Query: "Audubon albatross" ; Times: 2
+	Query: "specificepithet:erythrops genus:neocrex" ; Times: 2
+	Query: "Halcyon OR Todiramphus locality:Tutuila" ; Times: 1
+	Query: "specificepithet:elegans genus:Trogon stateprovince:&#34;Arizona&#34; institutioncode:UAZ" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Myiodynastes maculatus" ; Times: 2
+	Query: "Audubon Townsend" ; Times: 1
+	Query: "specificepithet:gustavi genus:anthus country:&#34;philippines&#34;" ; Times: 2
+	Query: "zosterops japonicus vntype:specimen country:&#34;United States&#34;" ; Times: 1
+	Query: "000194" ; Times: 1
+	Query: "Vanellus tectus" ; Times: 2
+	Query: "country:&#34;Colombia&#34; Catharus minimus" ; Times: 1
+	Query: "specificepithet:huttoni genus:Vireo county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; institutioncode:UAZ" ; Times: 1
+	Query: "stateprovince:&#34;Sonora&#34; recordedby:White institutioncode:UAZ" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "specificepithet:affinis genus:euphonia stateprovince:&#34;nayarit&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 2
+	Query: "peafowl" ; Times: 3
+	Query: "Squamata hybrid" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte institutioncode:UAZ" ; Times: 1
+	Query: "thraupis episcopus" ; Times: 3
+	Query: "specificepithet:elegans genus:Trogon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhamphus locality:Tutuila" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "Rhinoptilus cinctus" ; Times: 2
+	Query: "specificepithet:affinis genus:euphonia stateprovince:&#34;jalisco&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Cursorius temminckii" ; Times: 1
+	Query: "Accipiter gentilis mexico" ; Times: 1
+	Query: "Worm-eating warbler vntype:specimen" ; Times: 1
+	Query: "Pavo muticus" ; Times: 4
+	Query: "specificepithet:affinis genus:euphonia stateprovince:&#34;sinaloa&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "recordedby:White institutioncode:UAZ" ; Times: 2
+	Query: "genus:dicrurus country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Cooper AND Catalina" ; Times: 1
+	Query: "hdi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 940 download events in this period)
+Total number of records downloaded: 94
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 8
+	Country: Sweden ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: South Korea ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 5
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:plumifera order:galliformes" ; Times: 1
+	Query: "Pavo muticus" ; Times: 3
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 3
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+
+
+End of report.
