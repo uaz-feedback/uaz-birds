@@ -1,0 +1,188 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 328
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: United States ; Times: 21
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 16
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 12
+	Country: Austria ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 8
+	Date: 2020-10-08 ; Times: 3
+	Date: 2020-10-21 ; Times: 6
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-22 ; Times: 5
+	Date: 2020-10-01 ; Times: 1
+	Date: 2020-10-13 ; Times: 30
+	Date: 2020-10-10 ; Times: 5
+	Date: 2020-10-11 ; Times: 4
+	Date: 2020-10-30 ; Times: 2
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-06 ; Times: 3
+	Date: 2020-10-12 ; Times: 10
+	Date: 2020-10-20 ; Times: 3
+	Date: 2020-10-28 ; Times: 4
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "andigena hypoglauca (Colombia)" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "northern flicker (hybrid)" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "scientificname:Threskiornis aethiopicus" ; Times: 1
+	Query: "scientificname:Crax rubra" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 2
+	Query: "Rallus elegans vntype:specimen stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "scientificname:Ortalis wagleri" ; Times: 1
+	Query: "Rhynchopsitta preparations:skeleton" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "genus:oriturus stateprovince:&#34;chihuahua&#34; year &gt;= 1951 year &lt;= 1955" ; Times: 2
+	Query: "specificepithet:domesticus genus:Passer locality:montgomery" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Colombia Perico" ; Times: 1
+	Query: "genus:Pipilo class:Aves year &gt;= 1981 year &lt;= 1988" ; Times: 3
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "Sierra Madre Occidental" ; Times: 1
+	Query: "cinclus mexicanus year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 16
+	Query: "scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "scientificname:Ortalis vetula" ; Times: 2
+	Query: "scientificname:Penelopina nigra" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo stateprovince:&#34;Baja California Sur&#34;" ; Times: 1
+	Query: "genus:oriturus stateprovince:&#34;chihuahua&#34;" ; Times: 2
+	Query: "genus:oriturus stateprovince:&#34;chihuahua&#34; recordedby:marshall" ; Times: 1
+	Query: "scientificname:Buceros rhinoceros" ; Times: 15
+	Query: "specificepithet:maritimus genus:Ammodramus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Morus bassanus" ; Times: 1
+	Query: "spot-tailed nightjar" ; Times: 2
+	Query: "genus:Rynchops stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anser indicus" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 2
+	Query: "specificepithet:poliocephala genus:geothlypis country:&#34;Belize&#34;" ; Times: 1
+	Query: "scientificname:Accipiter nisus" ; Times: 2
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "scientificname:Ortalis poliocephala" ; Times: 1
+	Query: "scientificname:Crax globulosa" ; Times: 1
+	Query: "lesser frigatebird" ; Times: 1
+	Query: "Rallus elegans stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "scientificname:Ortalis guttata" ; Times: 1
+	Query: "specificepithet:poliocephala genus:Geothlypis country:&#34;Belize&#34;" ; Times: 1
+	Query: "gallirallus owstoni" ; Times: 1
+	Query: "spot-tailed nightjar oaxaca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 1521 download events in this period)
+Total number of records downloaded: 641
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Australia ; Times: 16
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 23
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 4
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 5
+	Date: 2020-10-12 ; Times: 5
+	Date: 2020-10-13 ; Times: 2
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-11 ; Times: 2
+	Date: 2020-10-05 ; Times: 3
+	Date: 2020-10-31 ; Times: 2
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-06 ; Times: 2
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-30 ; Times: 2
+	Date: 2020-10-28 ; Times: 6
+	Date: 2020-10-23 ; Times: 8
+	Date: 2020-10-15 ; Times: 5
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "family:Vireonidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "family:Alcidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:albifrons genus:Sterna" ; Times: 1
+	Query: "family:Icteridae class:Aves preparations:egg" ; Times: 1
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "genus:Melanerpes aurifrons country:&#34;México&#34;" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "vntype:specimen order:Bucerotiformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lewis genus:melanerpes country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Polioptilidae class:aves preparations:egg" ; Times: 1
+	Query: "Rallus elegans vntype:specimen stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Rhynchopsitta preparations:skeleton" ; Times: 1
+	Query: "andigena hypoglauca (Colombia)" ; Times: 1
+	Query: "family:Rallidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Polioptilidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Icteridae class:Aves preparations:Egg" ; Times: 2
+	Query: "family:Tyrannidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Passerina rositae" ; Times: 3
+	Query: "specificepithet:maritimus genus:Ammodramus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Melanerpes country:&#34;México&#34;" ; Times: 2
+	Query: "specificepithet:fimbriata genus:Amazilia" ; Times: 2
+	Query: "class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Sierra Madre Occidental" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "white-winged dove" ; Times: 1
+	Query: "Pseudocolaptes boissonneautii" ; Times: 1
+	Query: "vntype:specimen family:Ramphastidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:fregata" ; Times: 1
+	Query: "&#34;Black-throated Blue Warbler&#34; year &gt;= 1800 year &lt;= 1980" ; Times: 1
+	Query: "family:Trochilidae class:Aves preparations:Egg" ; Times: 1
+	Query: "aves bolivia" ; Times: 1
+	Query: "skin vntype:specimen genus:Nucifraga columbiana country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen family:Bucerotidae" ; Times: 1
+	Query: "genus:Rynchops stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Caprimulgidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Emberizidae class:Aves preparations:Egg" ; Times: 2
+	Query: "bald eagle" ; Times: 2
+	Query: "family:Emberizidae class:Aves preparations:egg" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:coruscans genus:Colibri" ; Times: 1
+	Query: "family:Emberizidae class:aves preparations:egg" ; Times: 2
+	Query: "vntype:specimen specificepithet:spinosa genus:Jacana" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+
+
+End of report.
