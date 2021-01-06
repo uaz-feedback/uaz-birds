@@ -1,0 +1,116 @@
+Report for Institution Code UAZ, Resource uaz_birds
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 654
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: United Kingdom ; Times: 28
+	Country: Mexico ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-20 ; Times: 2
+	Date: 2020-12-23 ; Times: 3
+	Date: 2020-12-22 ; Times: 5
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-09 ; Times: 3
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-11 ; Times: 3
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-04 ; Times: 22
+	Date: 2020-12-03 ; Times: 4
+	Date: 2020-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyanocompsa parellina parellina oaxaca" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinnamomeus genus:Crypturellus year &gt;= 1960" ; Times: 1
+	Query: "Poecile montanus" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Calonectris diomedea" ; Times: 1
+	Query: "Campylorhynchus zonatus" ; Times: 1
+	Query: "Tiaris olivacea" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 2
+	Query: "Vestiaria coccinea" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "elf" ; Times: 7
+	Query: "Amazona autumnalis vntype:specimen" ; Times: 2
+	Query: "Cairina moschata" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Emberiza tristrami" ; Times: 1
+	Query: "dendroica caerulescens washington" ; Times: 2
+	Query: "Piranga bidentata" ; Times: 2
+	Query: "Tadorna tadorna" ; Times: 2
+	Query: "Molothrus oryzivorus" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 2
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "Himatione sanguinea" ; Times: 1
+	Query: "Arremon aurantiirostris" ; Times: 1
+	Query: "black-throated blue warbler washington" ; Times: 1
+	Query: "sporophila torqueola oaxaca" ; Times: 1
+	Query: "Anser indicus" ; Times: 1
+	Query: "006021" ; Times: 2
+	Query: "dark-eyed junco vntype:specimen stateprovince:&#34;Pennsylvania&#34;" ; Times: 3
+	Query: "014892" ; Times: 1
+	Query: "Spilornis cheela" ; Times: 1
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "Piranga erythrocephala" ; Times: 1
+	Query: "Aegithalos caudatus" ; Times: 1
+	Query: "scientificname:Buceros rhinoceros" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "Cyanocompsa parellina oaxaca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 705 download events in this period)
+Total number of records downloaded: 1323
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-10 ; Times: 3
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "family:Trochilidae preparations:wing" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 4
+	Query: "Haematopus bachmani" ; Times: 1
+	Query: "Ucayali" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "Pucallpa" ; Times: 2
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "specificepithet:alexandrinus genus:Charadrius stateprovince:&#34;California&#34; year &gt;= 1950 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "vntype:specimen genus:schiffornis" ; Times: 1
+
+
+End of report.
